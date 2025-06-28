@@ -5,21 +5,21 @@
 
 ## 🔰 **SECTION 1: Foundations of Dialogflow CX (Articles 1–10)**
 
-  1.1 What is Dialogflow CX? Introduction and Use Cases
+   1.1 What is Dialogflow CX? Introduction and Use Cases
 
-  1.2 Dialogflow CX vs ES: Key Differences and Migration Strategy
+   1.2 Dialogflow CX vs ES: Key Differences and Migration Strategy
 
-  1.3 Navigating the Dialogflow CX Console: Overview & Tips
+   1.3 Navigating the Dialogflow CX Console: Overview & Tips
 
-  1.4 Understanding Agents, Flows, Pages, and Routes
+   1.4 Understanding Agents, Flows, Pages, and Routes
 
-  1.5 Dialogflow CX Conversation Lifecycle: From Entry to End
+   1.5 Dialogflow CX Conversation Lifecycle: From Entry to End
 
-  1.6 Setting Up Your First CX Agent
+   1.6 Setting Up Your First CX Agent
 
-  1.7 Dialogflow CX Terminology Simplified (Intents, Entities, Parameters)
+   1.7 Dialogflow CX Terminology Simplified (Intents, Entities, Parameters)
 
-  1.8 Using Intents in CX: Best Practices and Examples
+   1.8 Using Intents in CX: Best Practices and Examples
 
 1.9 Introduction to Entity Types: System, Custom, Regex, Composite
 
