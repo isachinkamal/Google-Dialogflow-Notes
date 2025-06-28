@@ -1,37 +1,34 @@
 # Google-Dialogflow-Notes
-
-
 ---
 
-## 🔰 **SECTION 1: Foundations of Dialogflow CX (Articles 1–10)**
+##  **SECTION 1: Foundations of Dialogflow CX (Articles 1–10)**
 
       1.1 What is Dialogflow CX? Introduction and Use Cases
 
-   1.2 Dialogflow CX vs ES: Key Differences and Migration Strategy
+      1.2 Dialogflow CX vs ES: Key Differences and Migration Strategy
 
-   1.3 Navigating the Dialogflow CX Console: Overview & Tips
+      1.3 Navigating the Dialogflow CX Console: Overview & Tips
 
-   1.4 Understanding Agents, Flows, Pages, and Routes
+      1.4 Understanding Agents, Flows, Pages, and Routes
 
-   1.5 Dialogflow CX Conversation Lifecycle: From Entry to End
+      1.5 Dialogflow CX Conversation Lifecycle: From Entry to End
 
-   1.6 Setting Up Your First CX Agent
+      1.6 Setting Up Your First CX Agent
 
-   1.7 Dialogflow CX Terminology Simplified (Intents, Entities, Parameters)
+      1.7 Dialogflow CX Terminology Simplified (Intents, Entities, Parameters)
 
-   1.8 Using Intents in CX: Best Practices and Examples
+      1.8 Using Intents in CX: Best Practices and Examples
 
-   1.9 Introduction to Entity Types: System, Custom, Regex, Composite
+      1.9 Introduction to Entity Types: System, Custom, Regex, Composite
 
-   1.10 Dialogflow CX Pricing Model and Quotas
-
+      1.10 Dialogflow CX Pricing Model and Quotas
 
 ---
 
-## 🧠 **SECTION 2: Flows, Pages, and Route Management (Articles 11–20)**
+##  **SECTION 2: Flows, Pages, and Route Management (Articles 11–20)**
 
-11. What Are Flows and Why They Matter in CX?
-12. Creating and Managing Pages in Dialogflow CX
+      2.1 What Are Flows and Why They Matter in CX?
+2.2 Creating and Managing Pages in Dialogflow CX
 13. Handling Transitions: Conditional Route Groups Explained
 14. Nested Flows: Linking Sub-Conversations
 15. Handling Loops and Re-entry Points
@@ -43,7 +40,7 @@
 
 ---
 
-## 🗣️ **SECTION 3: Natural Language Understanding (Articles 21–30)**
+##  **SECTION 3: Natural Language Understanding (Articles 21–30)**
 
 21. Deep Dive into Intent Matching in Dialogflow CX
 22. Entity Recognition Accuracy: Optimization Techniques
@@ -58,7 +55,7 @@
 
 ---
 
-## 🛠️ **SECTION 4: Fulfillment and Integrations (Articles 31–45)**
+##  **SECTION 4: Fulfillment and Integrations (Articles 31–45)**
 
 31. Fulfillment Options in Dialogflow CX: Inline vs Webhook
 32. Writing Your First Webhook with Node.js
@@ -78,7 +75,7 @@
 
 ---
 
-## 🧩 **SECTION 5: Context, State, and Memory Management (Articles 46–55)**
+##  **SECTION 5: Context, State, and Memory Management (Articles 46–55)**
 
 46. Understanding Session Parameters in CX
 47. Using Form Parameters for Structured Conversations
@@ -93,7 +90,7 @@
 
 ---
 
-## ⚙️ **SECTION 6: Testing, Validation, and Deployment (Articles 56–65)**
+##  **SECTION 6: Testing, Validation, and Deployment (Articles 56–65)**
 
 56. Manual Testing Tools in Dialogflow CX Console
 57. Using the Test JSON Console Effectively
@@ -108,7 +105,7 @@
 
 ---
 
-## 📱 **SECTION 7: Omni-Channel Integration (Articles 66–75)**
+##  **SECTION 7: Omni-Channel Integration (Articles 66–75)**
 
 66. Integrating Dialogflow CX with Google Assistant
 67. WhatsApp Integration via Twilio
@@ -123,7 +120,7 @@
 
 ---
 
-## 🔐 **SECTION 8: Security, Monitoring, and Governance (Articles 76–80)**
+##  **SECTION 8: Security, Monitoring, and Governance (Articles 76–80)**
 
 76. IAM Roles and Permissions in Dialogflow CX
 77. Securing Webhooks and Fulfillment APIs
@@ -133,7 +130,7 @@
 
 ---
 
-## 📊 **SECTION 9: Analytics, Reporting, and Optimization (Articles 81–85)**
+##  **SECTION 9: Analytics, Reporting, and Optimization (Articles 81–85)**
 
 81. Built-in CX Analytics: What to Track
 82. Exporting Conversation Logs to BigQuery
@@ -143,7 +140,7 @@
 
 ---
 
-## 💼 **SECTION 10: Interview-Focused Deep Dives (Articles 86–100)**
+##  **SECTION 10: Interview-Focused Deep Dives (Articles 86–100)**
 
 86. Top 25 Dialogflow CX Interview Questions (Part 1)
 87. Top 25 Dialogflow CX Interview Questions (Part 2)
