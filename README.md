@@ -4,7 +4,7 @@
 ---
 
 ## 🔰 **SECTION 1: Foundations of Dialogflow CX (Articles 1–10)**
-
+'''
    1.1 What is Dialogflow CX? Introduction and Use Cases
 
    1.2 Dialogflow CX vs ES: Key Differences and Migration Strategy
@@ -21,10 +21,11 @@
 
    1.8 Using Intents in CX: Best Practices and Examples
 
-1.9 Introduction to Entity Types: System, Custom, Regex, Composite
+   1.9 Introduction to Entity Types: System, Custom, Regex, Composite
 
-1.10 Dialogflow CX Pricing Model and Quotas
+   1.10 Dialogflow CX Pricing Model and Quotas
 
+'''
 ---
 
 ## 🧠 **SECTION 2: Flows, Pages, and Route Management (Articles 11–20)**
