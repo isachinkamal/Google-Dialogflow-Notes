@@ -28,15 +28,25 @@
 ##  **SECTION 2: Flows, Pages, and Route Management (Articles 11–20)**
 
       2.1 What Are Flows and Why They Matter in CX?
+      
       2.2 Creating and Managing Pages in Dialogflow CX
+      
       2.3 Handling Transitions: Conditional Route Groups Explained
+      
       2.4 Nested Flows: Linking Sub-Conversations
+      
       2.5 Handling Loops and Re-entry Points
+      
       2.6 Defining Entry Fulfillment and Entry Conditions
+      
       2.7 Reusing Flows with Parameters and Return Routes
+      
       2.8 Flow Testing Strategies and Best Practices
+      
       2.9 When to Split vs Combine Flows
+      
       2.10 Real-World Example: Multi-Department CX Agent Design
+      
 
 ---
 
