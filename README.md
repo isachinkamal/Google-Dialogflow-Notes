@@ -4,8 +4,8 @@
 ---
 
 ## 🔰 **SECTION 1: Foundations of Dialogflow CX (Articles 1–10)**
-'''
-   1.1 What is Dialogflow CX? Introduction and Use Cases
+
+      1.1 What is Dialogflow CX? Introduction and Use Cases
 
    1.2 Dialogflow CX vs ES: Key Differences and Migration Strategy
 
